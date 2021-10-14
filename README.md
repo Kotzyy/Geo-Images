@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Kotzyy/Kotzyy/raw/master/profile.jpg alt="GeoImages"width="240" height="260" />
+<img src="https://github.com/Kotzyy/Kotzyy/raw/master/profile.jpg?raw=true" lt="GeoImages"width="240" height="260" />
 <p align="center">
   <a href="https://github.com/Kotzyy"><img title="Author" src="https://img.shields.io/badge/Author-Kotzyy-purple.svg?style=for-the-badge&logo=github" /></a>
 </p>
